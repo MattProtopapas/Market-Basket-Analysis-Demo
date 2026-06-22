@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price
+P001,Bread,Bakery,2.49
+P002,Butter,Dairy,3.99
+P003,Jam,Pantry,3.29
+P004,Milk,Dairy,1.99
+P005,Eggs,Dairy,3.49
+P006,Cheese,Dairy,5.49
+P007,Cereal,Breakfast,4.29
+P008,Coffee,Beverages,7.99
+P009,Sugar,Pantry,2.19
+P010,Tea,Beverages,4.49
+P011,Pasta,Pantry,1.79
+P012,Tomato Sauce,Pantry,2.89
+P013,Parmesan,Dairy,6.49
+P014,Ground Beef,Meat,8.99
+P015,Onions,Produce,1.29
+P016,Garlic,Produce,0.89
+P017,Beer,Alcohol,9.99
+P018,Chips,Snacks,3.49
+P019,Salsa,Snacks,3.79
+P020,Soda,Beverages,2.49
+P021,Wine,Alcohol,12.99
+P022,Diapers,Baby,14.99
+P023,Baby Wipes,Baby,4.99
+P024,Bananas,Produce,1.49
+P025,Apples,Produce,2.99
+P026,Lettuce,Produce,1.99
+P027,Tomatoes,Produce,2.49
+P028,Chicken Breast,Meat,7.49
+P029,Rice,Pantry,3.99
+P030,Yogurt,Dairy,4.49
