@@ -5,6 +5,8 @@ validates its quality, and mines **association rules** ("customers who bought X
 also bought Y") using the Apriori algorithm. All data and results live in a
 single Excel workbook: **`Market Basket Analysis Demo.xlsx`**.
 
+More about the [benefits of Market Basket Analysis](./Market_Basket_Analysis_Benefits.md)
+
 ---
 
 ## Contents
