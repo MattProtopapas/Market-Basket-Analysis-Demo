@@ -4,7 +4,7 @@
 
 This software and associated code ("the Software") is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
 
-The authors, contributors, and copyright holders (**"the Providers"**) shall **not be held liable** for any claims, damages, or other liabilities—whether in an action of contract, tort, or otherwise—arising from, out of, or in connection with the use, reproduction, modification, distribution, or performance of the Software.
+The authors, contributors, and repository owner(s) (**"the Providers"**) shall **not be held liable** for any claims, damages, or other liabilities—whether in an action of contract, tort, or otherwise—arising from, out of, or in connection with the use, reproduction, modification, distribution, or performance of the Software.
 
 ## Use at Your Own Risk
 

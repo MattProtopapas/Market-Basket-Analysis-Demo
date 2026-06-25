@@ -323,4 +323,4 @@ Keep these exact column headers when supplying your own data (Option B).
 - **Unicode errors when printing to the console** — set
   `$env:PYTHONIOENCODING='utf-8'` in PowerShell before running.
 
-> **Disclaimer** — This software is provided for educational and demonstration purposes only. Use it at your own risk. See the full [Disclaimer & EULA](./DISCLAIMER.md) for details.
+> **Disclaimer** — This software is provided for educational and demonstration purposes only. See the full [Disclaimer & EULA](./DISCLAIMER.md) for details.
