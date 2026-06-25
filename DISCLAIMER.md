@@ -20,7 +20,7 @@ By using, copying, modifying, or distributing this Software, you acknowledge and
 
 ## Governing Law
 
-This agreement shall be governed by and construed in accordance with the applicable laws Greece, without regard to its conflict of law provisions with any other jurisdiction.
+This agreement shall be governed by and construed in accordance with the applicable laws of Greece, without regard to its conflict of law provisions with any other jurisdiction.
 
 ## Acceptance
 
